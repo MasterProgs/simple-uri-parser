@@ -1,6 +1,6 @@
-# Simple-uri-parser
+# Simple-url-parser
 
-Uri-parser for limited protocols such as : http(s), ftp, ssh, spotify, git
+Url-parser, such as : http(s), ftp, ssh, spotify, git
 
 ### Examples
 
